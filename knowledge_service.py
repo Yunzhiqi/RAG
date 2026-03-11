@@ -32,4 +32,9 @@ class KnowledgeBaseService(object):
             metadatas=[meta_data for _ in knowledge_data]
         )
         md5.save_md5(md5_hex)
-        return '[成功]已写入'+filename
+        return '[成功]已写入文件'+filename
+    
+if __name__=='__main__':
+    service=KnowledgeBaseService()
+    ans=service.upload_str('ABC','test')
+    print(ans)
