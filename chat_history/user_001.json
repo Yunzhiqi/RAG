@@ -1,0 +1,27 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "冬天穿什么衣服合适",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据参考资料，冬季服装颜色选择建议如下：\n\n**颜色推荐**：\n- **深色系**：如黑色、酒红、墨绿色，保暖且显气场。\n- **高饱和度亮色**：如正红、宝蓝，可提升造型亮点。\n- **经典选择**：白色羽绒服或大衣，干净利落。\n\n**搭配技巧**：\n- 可结合深色与亮色，例如黑色外套搭配酒红围巾。\n- 避免过于朴素的颜色，以增强存在感。\n- 配饰可选金属色（如金色、银色）或中性色（黑白灰）提升层次。\n\n**注意**：冬季服装需兼顾保暖性，建议选择厚实面料（如羊毛、羽绒），并参考体型修饰技巧（如深色显瘦、同色系显高）。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]

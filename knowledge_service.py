@@ -4,6 +4,7 @@ from langchain_chroma import Chroma
 from langchain_community.embeddings import DashScopeEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
+
 class KnowledgeBaseService(object):
     
     def __init__(self):
