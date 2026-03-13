@@ -28,7 +28,7 @@ if file:
     ans=st.session_state['service'].upload_str(text,name)
     
     with st.spinner('载入知识库中...'):
-        time.sleep(1)
+        # time.sleep(1)
         st.write(ans)
         # st.write(text)
         st.session_state['counter']+=1
